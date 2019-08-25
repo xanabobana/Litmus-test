@@ -1,2 +1,1 @@
-#Litmus-test
-Skill assessment
+Litmus Skill assessment
